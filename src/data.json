@@ -1,0 +1,48 @@
+[
+
+    {
+        "id" : 0,
+        "Name" : "Klaus",
+        "Bloodline" : "Mikaelson",
+        "Gene" : "Original Hybrid"
+
+
+    },
+
+    {
+        "id" : 1,
+        "Name" : "Elijah",
+        "Bloodline" : "Mikaelson",
+        "Gene" : "Original Vampire"
+
+
+    },
+
+
+    {
+        "id" : 2,
+        "Name" : "Damon",
+        "Bloodline" : "Salvatore",
+        "Gene" : "Vampire"
+
+
+    },
+
+
+    {
+        "id" : 3,
+        "Name" : "Hope",
+        "Bloodline" : "Mikaelson",
+        "Gene" : "New Orleans Witch"
+
+
+    }
+
+
+
+
+
+
+
+
+]
